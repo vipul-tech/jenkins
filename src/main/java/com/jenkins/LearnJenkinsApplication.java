@@ -18,7 +18,7 @@ public class LearnJenkinsApplication implements CommandLineRunner{
 
 	@Override
 	public void run(String... args) throws Exception {
-		logger.info("This is second logger");
+		logger.info("This is second logger---------------");
 	}
 
 }

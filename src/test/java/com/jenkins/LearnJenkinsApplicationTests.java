@@ -14,7 +14,7 @@ class LearnJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("This is test class");
+		logger.info("This is test class--------------");
 		assertEquals(true, true);
 	}
 
